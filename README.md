@@ -28,7 +28,7 @@ This project uses the v0.app **macOS Simulator template** as a foundation, then 
 ## 🚀 Getting Started
 ```bash
 git clone https://github.com/Kunal645/dream-macos-sim.git
-cd dream-macos-sim.git
+cd dream-macos-sim.git/
 ```
 
 Open `index.html` in your browser.
